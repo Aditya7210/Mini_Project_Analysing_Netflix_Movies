@@ -35,3 +35,5 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
+
+**Credit** --- I thank ***DataCamp*** to provide me with the necessary resources to complete this project
