@@ -1,3 +1,5 @@
+"I do not own the above dataset. It has been provided by DataCamp, and all rights to the files are reserved by DataCamp. Unauthorized use, reproduction, or distribution is strictly prohibited."
+
 # Mini_Projects
 In this project I utilise my understanding of Python Loops, Comparison Operators, Matplotlib, DataFrames to analyse Secondary Data provided by DataCamp.
 
